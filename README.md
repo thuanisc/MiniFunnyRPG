@@ -1,7 +1,7 @@
 
 # 🧙‍♀️⚔️ Mini-game: Funny RPG
 Um mini-RPG em Python com Pygame, com atmosfera cômica e visual estilo 16-bits, desenvolvido como projeto de aprendizado.
-O jogador pode escolher entre as classes Mago ou Guerreiro e enfrentar monstros únicos em caminhos distintos — floresta ou deserto — até o confronto final com o boss ERROR-9090.
+O jogador pode escolher entre as classes Mago ou Guerreiro e enfrentar monstros únicos em caminhos distintos (floresta ou deserto) até o confronto final com o boss ERROR-9090.
 
 ---
 
