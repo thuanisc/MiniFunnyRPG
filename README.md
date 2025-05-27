@@ -45,7 +45,7 @@ ProjetoRPG/
 ---
 
 ## 🖼️ Capturas
-<img src="imagens/Narrador Maluco.png" width="120">
+<img src="imagens/Narrador maluco.png" width="120">
 <img src="imagens/Mago.png" width="120">
 <img src="imagens/Guerreiro.png" width="120">
 <img src="imagens/Goblin.png" width="120">
